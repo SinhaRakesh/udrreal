@@ -1,0 +1,23 @@
+"Commands"
+
+To set up :
+
+composer install or composer update.
+php artisan key:generate.
+
+composer dump-autoload -o
+
+For npm :
+npm install
+
+(Descripted from laravel.com)
+npm run dev
+npm run production
+
+npm run watch.
+
+Now Run project :
+
+php artisan serve
+
+and good to go.
