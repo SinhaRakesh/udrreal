@@ -1,0 +1,25 @@
+.container {
+    max-width: 1140px;
+}
+
+#logo img, img.footer-logo {
+        max-height: 60px;
+}
+
+#titlebar {
+    padding: 50px 0;
+}
+
+.listing-img-container {
+    img {
+        width: auto;
+        max-width: initial;
+        height: 250px;
+        min-width: 100%;
+    }
+}
+
+.listing-badges span {
+    background-color: #dcaf01;
+    text-transform: capitalize;
+}

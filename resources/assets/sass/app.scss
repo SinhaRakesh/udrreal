@@ -1,0 +1,7 @@
+body {
+    color: #000;
+}
+
+@import "./theme/style.css";
+@import "./theme/color.css";
+@import "custom";
